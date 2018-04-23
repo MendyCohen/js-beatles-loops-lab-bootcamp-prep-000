@@ -22,8 +22,8 @@ function iLoveTheBeatles(a) {
   //creat a do-while loop
   do{
     //add i love the beatles to the empty array
-    boo.push("I love the Beatles!")
-    
-  } while[a < 15]
-}
+    boo.push("I love the Beatles!");
+    boo ++;
+  } while(a < 15);
+} return boo;
 
