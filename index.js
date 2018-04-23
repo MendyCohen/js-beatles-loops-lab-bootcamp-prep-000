@@ -24,6 +24,6 @@ function iLoveTheBeatles(a) {
     //add i love the beatles to the empty array
     boo.push("I love the Beatles!");
     boo ++;
-  } while(a < 15);
-} return a;
+  } while(a < 15);  return a;
+}// return a;
 
