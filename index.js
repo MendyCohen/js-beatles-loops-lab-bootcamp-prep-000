@@ -6,8 +6,12 @@ var array = [];
 } 
 
 function johnLennonFacts(facts) {
-  var i = 0;
-   while(i < facts.length) {
-     facts.push("!!!");
-  } return facts;
+   var res =[];
+   while(facts.length) {
+     //remove item from facts
+     res.push(facts.pop()+'!!!');
+     // add to new array +'!!!'
+  } 
+  // return new array
+  return res;
 }
