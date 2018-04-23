@@ -22,7 +22,7 @@ function iLoveTheBeatles(a) {
   //creat a do-while loop
   do{
     //add i love the beatles to the empty array
-    boo.push()
+    boo.push("I love the Beatles!")
   } while[]
 }
 
