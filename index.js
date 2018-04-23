@@ -19,6 +19,8 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(a) {
   //empty variable 
   var boo = [];
-  
+  do{
+    
+  }
 }
 
