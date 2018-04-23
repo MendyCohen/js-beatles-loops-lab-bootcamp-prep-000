@@ -9,7 +9,7 @@ function johnLennonFacts(facts) {
    var res =[];
    while(facts.length) {
      //remove item from facts
-     res.push(facts.unshift()+'!!!');
+     res.push(facts.shift()+'!!!');
      // add to new array +'!!!'
   } 
   // return new array
