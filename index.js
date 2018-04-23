@@ -19,8 +19,10 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(a) {
   //empty variable 
   var boo = [];
+  //creat a do-while loop
   do{
-    
-  }
+    //add i love the beatles to the empty array
+    boo.push()
+  } while[]
 }
 
